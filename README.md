@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Welecome+to+ChanSam+Github+%F0%9F%91%8B;I'm+Android+%26+Flutter+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&random=false&width=435&lines=Welecome+to+ChanSam+Github+%F0%9F%91%8B;I'm+Android+%26+Flutter+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!--내용 부분-->
 <h3 align="start">✨ Tech Stack ✨</h3>
