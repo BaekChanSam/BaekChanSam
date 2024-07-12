@@ -7,7 +7,7 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
-  <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF" />&nbsp
   <img src="https://img.shields.io/badge/jetpackcompose-3670A0?style=for-the-badge&logo=jetpackcompose&logoColor=#4285F4" />&nbsp
 </div>
 
