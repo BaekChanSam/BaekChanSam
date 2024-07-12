@@ -14,17 +14,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />&nbsp
   <img src="https://img.shields.io/badge/dart-2C2C32.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />&nbsp
-  <img src="https://img.shields.io/badge/getx-150458.svg?style=for-the-badge&logo=getx&logoColor=8A2BE2" />&nbsp
-  <img src="https://img.shields.io/badge/gradle-4d77cf.svg?style=for-the-badge&logo=gradle&logoColor=02303A" />&nbsp
+  <img src="https://img.shields.io/badge/getx-2C2C32.svg?style=for-the-badge&logo=getx&logoColor=8A2BE2" />&nbsp
+  <img src="https://img.shields.io/badge/gradle-2C2C32.svg?style=for-the-badge&logo=gradle&logoColor=02303A" />&nbsp
 </div>
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/slack-F3F3F3.svg?style=for-the-badge&logo=slack&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/git-2C2C32.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-2C2C32.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-2C2C32.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/slack-2C2C323.svg?style=for-the-badge&logo=slack&logoColor=black" />&nbsp
 </div>
 
 <div align="center">
