@@ -12,9 +12,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Android-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=3DDC84" />&nbsp
 </div>
 <br>
 
@@ -38,7 +37,6 @@
 <div align="center">
    <img src="https://img.shields.io/badge/AndroidStudio-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
   <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <br>
