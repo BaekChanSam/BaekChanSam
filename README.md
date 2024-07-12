@@ -18,9 +18,9 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/jetpackcompose-3670A0?style=for-the-badge&logo=jetpackcompose&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/getx-150458.svg?style=for-the-badge&logo=getx&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jetpackcompose-3670A0?style=for-the-badge&logo=jetpackcompose&logoColor=#4285F4" />&nbsp
+  <img src="https://img.shields.io/badge/getx-150458.svg?style=for-the-badge&logo=getx&logoColor=#8A2BE2" />&nbsp
+  <img src="https://img.shields.io/badge/gradle-4d77cf.svg?style=for-the-badge&logo=gradle&logoColor=#02303A" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
 
@@ -36,7 +36,8 @@
 
 <div align="center">
    <img src="https://img.shields.io/badge/AndroidStudio-2C2C32.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp
-  <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />&nbsp
+   <img src="https://img.shields.io/badge/xcode-2C2C32.svg?style=for-the-badge&logo=xcode&logoColor=3DDC84" />&nbsp
+   <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />&nbsp
 </div>
 
 <br>
