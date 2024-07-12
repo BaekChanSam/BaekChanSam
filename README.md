@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/slack-F3F3F3.svg?style=for-the-badge&logo=slack&logoColor=black" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
    <img src="https://img.shields.io/badge/AndroidStudio-2C2C32.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp
    <img src="https://img.shields.io/badge/xcode-2C2C32.svg?style=for-the-badge&logo=xcode&logoColor=147EFB" />&nbsp
