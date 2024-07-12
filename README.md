@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Android-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
   <img src="https://img.shields.io/badge/kotlin-2C2C32.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF" />&nbsp
-  <img src="https://img.shields.io/badge/jetpackcompose-2C2C32.svg?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" />&nbsp
+  <img src="https://img.shields.io/badge/jetpackcompose-2C2C32.svg?style=for-the-badge&logo=jetpackcompose&logoColor=3DDC84" />&nbsp
 </div>
 
 <div align="center">
