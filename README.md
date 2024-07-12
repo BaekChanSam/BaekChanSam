@@ -13,13 +13,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Android-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
-  <img src="https://img.shields.io/badge/Flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=3DDC84" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />&nbsp
 </div>
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jetpackcompose-3670A0?style=for-the-badge&logo=jetpackcompose&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/getx-150458.svg?style=for-the-badge&logo=getx&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
 </div>
@@ -35,7 +35,7 @@
 <br>
 
 <div align="center">
-   <img src="https://img.shields.io/badge/AndroidStudio-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
+   <img src="https://img.shields.io/badge/AndroidStudio-2C2C32.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp
   <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />&nbsp
 </div>
 
