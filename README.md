@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Flutter-2C2C32.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />&nbsp
   <img src="https://img.shields.io/badge/dart-2C2C32.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />&nbsp
   <img src="https://img.shields.io/badge/getx-2C2C32.svg?style=for-the-badge&logo=getx&logoColor=8A2BE2" />&nbsp
-  <img src="https://img.shields.io/badge/gradle-2C2C32.svg?style=for-the-badge&logo=gradle&logoColor=02303A" />&nbsp
+  <img src="https://img.shields.io/badge/gradle-2C2C32.svg?style=for-the-badge&logo=gradle&logoColor=white" />&nbsp
 </div>
 <br>
 
@@ -23,14 +23,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-2C2C32.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-2C2C32.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-2C2C32.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/slack-2C2C323.svg?style=for-the-badge&logo=slack&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-2C2C32.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/slack-2C2C32.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
    <img src="https://img.shields.io/badge/AndroidStudio-2C2C32.svg?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />&nbsp
    <img src="https://img.shields.io/badge/xcode-2C2C32.svg?style=for-the-badge&logo=xcode&logoColor=147EFB" />&nbsp
-   <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=000000" />&nbsp
+   <img src="https://img.shields.io/badge/intellij-2C2C32.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
 </div>
 
 <br>
