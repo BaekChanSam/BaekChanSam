@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Welecome+to+ChanSam+Github+%F0%9F%91%8B;I'm+Android+%26+Flutter+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="start">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
   <img src="https://img.shields.io/badge/kotlin-2C2C32.svg?style=for-the-badge&logo=kotlin&logoColor=#7F52FF" />&nbsp
